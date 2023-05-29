@@ -61,8 +61,8 @@
 ## Output:
 ![EX3](https://github.com/JEGADEESH07/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113497131/0a8792c8-2252-4be7-b435-2248bca0469e)
 
-### Name: ABISHEK XAVIER A
-### Register Number:212222230004
+### Name: BHARATHWAJ R
+### Register Number:212222240019
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
